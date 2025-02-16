@@ -1,10 +1,2 @@
 # BB Research
-Part of project PURGE by [Default RED Technologies](https://defaultred.com/)
-
-## Reference for Members
-- **tracker**: keeps track of all public bug bounty programs.
-- **[repo]/scope.txt**: To be parsed by [scope](https://github.com/0xcrypto/scope)
-- **[repo]/targets.txt**: In scope targets
-- **[repo]/out-of-scope.txt**: Targets to avoid
-- **[repo]/http-targets.txt**: HTTP Targets to attack
-- **[repo]/[technology]-targets.txt**: Targets with specific technology available. 
+Part of Project PURGE by [Default RED](https://defaultred.com). We conduct large-scale security research using cutting-edge automation and AI. This organization serves as a repository for passively collected bug bounty data, categorized by individual programs for structured analysis.
